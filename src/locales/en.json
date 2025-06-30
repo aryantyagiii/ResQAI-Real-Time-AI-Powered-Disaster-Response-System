@@ -1,0 +1,73 @@
+{
+  "app": {
+    "name": "ResQAI",
+    "tagline": "AI-Powered Disaster Management"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "map": "Rescue Map",
+    "analytics": "Analytics",
+    "alerts": "Alerts",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "activeCases": "Active Cases",
+    "pendingRescues": "Pending Rescues",
+    "completedRescues": "Completed Rescues",
+    "disasterAlerts": "Disaster Alerts"
+  },
+  "map": {
+    "title": "Rescue Map",
+    "filterTitle": "Filter Cases",
+    "filterLegend": "Severity Legend",
+    "high": "High Priority",
+    "medium": "Medium Priority",
+    "low": "Low Priority",
+    "searchPlaceholder": "Search location...",
+    "viewDetails": "View Details"
+  },
+  "victim": {
+    "title": "Emergency Help",
+    "panicButton": "EMERGENCY ALERT",
+    "shareLocation": "Share My Location",
+    "uploadPhoto": "Upload Photo",
+    "callHelp": "Call Emergency Services",
+    "statusHeading": "Your Status",
+    "statusPending": "Help Request Sent",
+    "statusConfirmed": "Help Is On The Way",
+    "statusRescued": "Rescued"
+  },
+  "alerts": {
+    "title": "Alerts",
+    "newAlert": "New Alert",
+    "sendAlertButton": "Send Alert",
+    "selectArea": "Select Area",
+    "alertType": "Alert Type",
+    "alertMessage": "Alert Message",
+    "alertLanguage": "Language",
+    "alertChannel": "Channel",
+    "sms": "SMS",
+    "push": "Push Notification",
+    "both": "Both"
+  },
+  "disasters": {
+    "flood": "Flood",
+    "earthquake": "Earthquake",
+    "hurricane": "Hurricane",
+    "wildfire": "Wildfire",
+    "tsunami": "Tsunami",
+    "landslide": "Landslide"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "disasterPredictions": "Disaster Predictions",
+    "rescueEfficiency": "Rescue Efficiency",
+    "victimDensity": "Victim Density",
+    "responseTime": "Response Time"
+  },
+  "status": {
+    "online": "Online",
+    "offline": "Offline"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "app": {
+    "name": "ResQAI",
+    "tagline": "AI-आधारित आपदा प्रबंधन"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "map": "बचाव मानचित्र",
+    "analytics": "विश्लेषण",
+    "alerts": "अलर्ट",
+    "settings": "सेटिंग्स"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "activeCases": "सक्रिय मामले",
+    "pendingRescues": "लंबित बचाव",
+    "completedRescues": "पूर्ण बचाव",
+    "disasterAlerts": "आपदा अलर्ट"
+  },
+  "map": {
+    "title": "बचाव मानचित्र",
+    "filterTitle": "मामलों को फ़िल्टर करें",
+    "filterLegend": "गंभीरता संकेत",
+    "high": "उच्च प्राथमिकता",
+    "medium": "मध्यम प्राथमिकता",
+    "low": "निम्न प्राथमिकता",
+    "searchPlaceholder": "स्थान खोजें...",
+    "viewDetails": "विवरण देखें"
+  },
+  "victim": {
+    "title": "आपातकालीन मदद",
+    "panicButton": "आपातकालीन अलर्ट",
+    "shareLocation": "मेरा स्थान साझा करें",
+    "uploadPhoto": "फोटो अपलोड करें",
+    "callHelp": "आपातकालीन सेवाओं को कॉल करें",
+    "statusHeading": "आपकी स्थिति",
+    "statusPending": "सहायता अनुरोध भेजा गया",
+    "statusConfirmed": "मदद रास्ते में है",
+    "statusRescued": "बचाया गया"
+  },
+  "alerts": {
+    "title": "अलर्ट",
+    "newAlert": "नया अलर्ट",
+    "sendAlertButton": "अलर्ट भेजें",
+    "selectArea": "क्षेत्र चुनें",
+    "alertType": "अलर्ट प्रकार",
+    "alertMessage": "अलर्ट संदेश",
+    "alertLanguage": "भाषा",
+    "alertChannel": "चैनल",
+    "sms": "एसएमएस",
+    "push": "पुश नोटिफिकेशन",
+    "both": "दोनों"
+  },
+  "disasters": {
+    "flood": "बाढ़",
+    "earthquake": "भूकंप",
+    "hurricane": "तूफान",
+    "wildfire": "जंगल की आग",
+    "tsunami": "सुनामी",
+    "landslide": "भूस्खलन"
+  },
+  "analytics": {
+    "title": "विश्लेषण",
+    "disasterPredictions": "आपदा भविष्यवाणियां",
+    "rescueEfficiency": "बचाव दक्षता",
+    "victimDensity": "पीड़ित घनत्व",
+    "responseTime": "प्रतिक्रिया समय"
+  },
+  "status": {
+    "online": "ऑनलाइन",
+    "offline": "ऑफलाइन"
+  }
+}

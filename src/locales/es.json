@@ -1,0 +1,73 @@
+{
+  "app": {
+    "name": "ResQAI",
+    "tagline": "Gestión de Desastres con IA"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "map": "Mapa de Rescate",
+    "analytics": "Análisis",
+    "alerts": "Alertas",
+    "settings": "Configuración"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "activeCases": "Casos Activos",
+    "pendingRescues": "Rescates Pendientes",
+    "completedRescues": "Rescates Completados",
+    "disasterAlerts": "Alertas de Desastres"
+  },
+  "map": {
+    "title": "Mapa de Rescate",
+    "filterTitle": "Filtrar Casos",
+    "filterLegend": "Leyenda de Severidad",
+    "high": "Prioridad Alta",
+    "medium": "Prioridad Media",
+    "low": "Prioridad Baja",
+    "searchPlaceholder": "Buscar ubicación...",
+    "viewDetails": "Ver Detalles"
+  },
+  "victim": {
+    "title": "Ayuda de Emergencia",
+    "panicButton": "ALERTA DE EMERGENCIA",
+    "shareLocation": "Compartir Mi Ubicación",
+    "uploadPhoto": "Subir Foto",
+    "callHelp": "Llamar a Servicios de Emergencia",
+    "statusHeading": "Tu Estado",
+    "statusPending": "Solicitud de Ayuda Enviada",
+    "statusConfirmed": "La Ayuda Está en Camino",
+    "statusRescued": "Rescatado"
+  },
+  "alerts": {
+    "title": "Alertas",
+    "newAlert": "Nueva Alerta",
+    "sendAlertButton": "Enviar Alerta",
+    "selectArea": "Seleccionar Área",
+    "alertType": "Tipo de Alerta",
+    "alertMessage": "Mensaje de Alerta",
+    "alertLanguage": "Idioma",
+    "alertChannel": "Canal",
+    "sms": "SMS",
+    "push": "Notificación Push",
+    "both": "Ambos"
+  },
+  "disasters": {
+    "flood": "Inundación",
+    "earthquake": "Terremoto",
+    "hurricane": "Huracán",
+    "wildfire": "Incendio Forestal",
+    "tsunami": "Tsunami",
+    "landslide": "Deslizamiento"
+  },
+  "analytics": {
+    "title": "Análisis",
+    "disasterPredictions": "Predicciones de Desastres",
+    "rescueEfficiency": "Eficiencia de Rescate",
+    "victimDensity": "Densidad de Víctimas",
+    "responseTime": "Tiempo de Respuesta"
+  },
+  "status": {
+    "online": "En Línea",
+    "offline": "Fuera de Línea"
+  }
+}
